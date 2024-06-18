@@ -28,8 +28,8 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 1. Clona el repositorio a tu máquina local.
 
 ```bash
-git clone https://github.com/tu-usuario/catalogo-barberia.git
-cd catalogo-barberia
+git clone https://github.com/DDansAbelenda/barberia-alura.git
+cd barberia-alura
 ```
 
 2. Abre el archivo `index.html` en tu navegador web favorito.
